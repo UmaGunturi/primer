@@ -1,3 +1,3 @@
 ## Primers in Machine Learning
-Perceptron
 
+- [Perceptron](https://github.com/Devyanshu/primer/blob/master/Machine%20Learning/Perceptron.md)
